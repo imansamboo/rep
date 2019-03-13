@@ -1,0 +1,10 @@
+[submodule "rep3"]
+	path = rep3
+	url = https://github.com/imansamboo/rep3.git
+[submodule "rep1"]
+	path = rep1
+	url = https://github.com/imansamboo/rep1.git
+[submodule "rep2"]
+        path = rep2
+        url = https://github.com/imansamboo/rep2.git
+
